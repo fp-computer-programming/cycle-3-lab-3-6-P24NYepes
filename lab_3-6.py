@@ -13,3 +13,14 @@ Write a statement that prints the length of the previous string.
 Write a statement using the index operator that returns the "L" in "apple"
 
 """
+substring1= "Fairfield"
+substring2= "Prep"
+resulting_string= substring1+ substring2
+print(resulting_string)
+dashed_line= "-"*20
+print(dashed_line)
+print("I'm loving thus short story reading,\"The Fall of the House of Usher\"")
+word= "apple"
+charchter= word[3]
+print(charchter)
+#asd
